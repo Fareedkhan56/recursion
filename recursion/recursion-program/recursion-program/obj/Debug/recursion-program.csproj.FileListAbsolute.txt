@@ -1,0 +1,7 @@
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\bin\Debug\recursion-program.exe.config
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\bin\Debug\recursion-program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\bin\Debug\recursion-program.pdb
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\obj\Debug\recursion-program.csproj.AssemblyReference.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\obj\Debug\recursion-program.csproj.CoreCompileInputs.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\obj\Debug\recursion-program.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\recursion\recursion-program\recursion-program\obj\Debug\recursion-program.pdb
